@@ -15,7 +15,7 @@ We will be using Python script with lib ‘ftplib’, since we have already succ
 
 # Code working steps
 
-1.  The code will get into all DIR's in the [path provided](path/to/highlitedScript), and will look up for [file.txt](path/to/myfile.txt).
+1.  The code will get into all DIR's in the [path provided](https://github.com/hussain-creator/AutoServant/blob/edad58fcde5431c06994b07119ec2f4be01efe71/main.py?plain=1#L22), and will look up for [file.txt](https://github.com/hussain-creator/AutoServant/blob/main/fottage/file.txt).
 2.  The code will read the file.txt data as shown below:
     - file_name: \<file_name>
     - event_date: \<event_date>, <ins>keep the simple format: 15-5-2020</ins>
