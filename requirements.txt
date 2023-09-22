@@ -1,0 +1,2 @@
+hijri_converter==2.3.1
+twilio==8.5.0

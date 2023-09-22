@@ -1,0 +1,5 @@
+file_name: "THE EVENT TITLE HERE"
+event_date: "DATE HERE - E.X. = (1-5-2023)"
+name_of_lecturer: "LECTURER NAME HERE"
+other_lecturers: "OTHER LECTURERS NAME HERE"
+event_type: "EVENT TYPE HERE - E.X. = (Cultural lecture)"
