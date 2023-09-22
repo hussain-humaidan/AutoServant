@@ -5,7 +5,7 @@
 
 # Running the code
 
-[Instructions to run the code](path/to/myfile.txt)
+[Instructions to run the code](https://github.com/hussain-creator/AutoServant/blob/main/README.md#running-the-code)
 
 # Warning
 
