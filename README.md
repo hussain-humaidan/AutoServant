@@ -1,10 +1,6 @@
-<center><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hussain-humaidan-a5a515216/" target="blank"><img align="center" src="https://gist.githubusercontent.com/Cytancy/d1e4a0f0edc874092613ddaef897b2a6/raw/a9b4317a94a7fd6706d20a5a018d028a333b83a6/linkedin.svg" alt="kalpeshofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hybrid-technology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kalpesh144d" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pycode_hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kalpesh__official_" height="30" width="40" /></a>
 </p>
 
 # Goal
